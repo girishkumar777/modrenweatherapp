@@ -6,6 +6,12 @@ A modern weather application built with React, utilizing TanStack Query for effi
 
 ---
 
+### 📊 Demo
+
+You can view a live demo of the app [here](https://dzmitryur.github.io/weather-app-react/).
+
+---
+
 ### 🚀 Features
 
 * **Current Weather Data**: Displays real-time weather information including temperature, humidity, and wind speed.
@@ -30,12 +36,6 @@ A modern weather application built with React, utilizing TanStack Query for effi
 
 ---
 
-### 📊 Demo
-
-You can view a live demo of the app [here](https://dzmitryur.github.io/weather-app-react/).
-
----
-
 ### 🧪 Usage
 
 * On launch, the app displays weather data such as temperature, humidity, and wind speed.
@@ -43,4 +43,5 @@ You can view a live demo of the app [here](https://dzmitryur.github.io/weather-a
 * **TanStack Query** handles caching and background data updates.
 * If location permissions are granted, the app uses geolocation to display local weather data.
 
+---
 
