@@ -8,7 +8,7 @@ A modern weather application built with React, utilizing TanStack Query for effi
 
 ### 📊 Demo
 
-You can view a live demo of the app [here](https://dzmitryur.github.io/weather-app-react/).
+You can view a live demo of the app [here](https://modrenweatherapp-96hcfarqu-girishkumars-projects.vercel.app/).
 
 ---
 
